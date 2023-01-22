@@ -1,4 +1,6 @@
-### Hi there 👋
+### Full Stack Software Engineer 🤖
+
+Hi, I'm a developer based out of the San Antonio area. I have a lot of hobbies (I like learning new things). I have skills in C#, Java, JavaScript & React. I also have experience in SQL and little python.
 
 <!--
 **KCParker77/KCParker77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
